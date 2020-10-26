@@ -1,7 +1,7 @@
 # movies-by-state
 Exploratory analysis of various movies based on the US state they are set in.
 
-See my blog post for details on how this was done and screenshot results:
+See my blog post for details on how this was done and screenshot results: https://andrew-muller.medium.com/movie-data-by-the-us-state-its-set-in-c60d3f25296c
 
 Notes:
 - Uses Requests, Pandas, BeautifulSoup, and Selenium libraries
