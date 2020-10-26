@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Config files
+config.py
+
+# Large datasets from IMDB
+Data/name-basics.tsv
+Data/title-basics.tsv
+Data/title-ratings.tsv
