@@ -135,3 +135,6 @@ config.py
 Data/name-basics.tsv
 Data/title-basics.tsv
 Data/title-ratings.tsv
+
+# browser driver
+chromedriver.exe
